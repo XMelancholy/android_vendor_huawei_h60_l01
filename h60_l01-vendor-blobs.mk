@@ -459,7 +459,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/h60_l01/proprietary/lib/libnvme.so:system/lib/libnvme.so \
     vendor/huawei/h60_l01/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/huawei/h60_l01/proprietary/lib/libHWExtDeviceService.so:system/lib/libHWExtDeviceService.so \
-    vendor/huawei/h60_l01/proprietary/lib/libmedia_jni.so:system/lib/libmedia_jni.so \
     vendor/huawei/h60_l01/proprietary/lib/libcamera_omron.so:system/lib/libcamera_omron.so \
     vendor/huawei/h60_l01/proprietary/lib/libbcm_gps_pdttest.so:system/lib/libbcm_gps_pdttest.so \
     vendor/huawei/h60_l01/proprietary/lib/libmalidbc.so:system/lib/libmalidbc.so \
@@ -470,7 +469,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/h60_l01/proprietary/lib/hw/power.hi3630.so:system/lib/hw/power.hi3630.so \
     vendor/huawei/h60_l01/proprietary/lib/hw/sensors.hi3630.so:system/lib/hw/sensors.hi3630.so \
     vendor/huawei/h60_l01/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/huawei/h60_l01/proprietary/lib/hw/camera.vendor.hi3630.so:system/lib/hw/camera.vendor.hi3630.so \
+    vendor/huawei/h60_l01/proprietary/lib/hw/camera.hi3630.so:system/lib/hw/camera.hi3630.so \
     vendor/huawei/h60_l01/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
     vendor/huawei/h60_l01/proprietary/lib/hw/copybit.hi3630.so:system/lib/hw/copybit.hi3630.so \
     vendor/huawei/h60_l01/proprietary/lib/hw/audio.primary.hi3630.so:system/lib/hw/audio.primary.hi3630.so \
